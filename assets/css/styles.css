@@ -20,7 +20,7 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-/* Common */
+/* ========== Common ========== */
 a {
     text-decoration: none;
 }
@@ -374,7 +374,7 @@ a {
     color: #4d4d52;
 }
 
-/* Stats */
+/* ========== Stats ========== */
 .stats {
     margin-top: 75px;
     padding: 50px 0;
@@ -527,7 +527,7 @@ a {
     color: #7b8087;
 }
 
-/* Subscription */
+/* ========== Subscription ========== */
 .subscription {
     margin-top: 90px;
 }
@@ -580,7 +580,7 @@ a {
     right: 221px;
 }
 
-/* Footer */
+/* ========== Footer ========== */
 .footer {
     margin-top: 55px;
     padding: 50px 0px 58px;
